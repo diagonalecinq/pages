@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Diagonale
 ---
 
-Hi
+Diagonale est un blog de gauche modérée.
