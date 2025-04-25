@@ -9,16 +9,6 @@ Pour nous, c'est un concept politique.
 
 L'idée est de proposer des mesures progressistes / égalitaires au nom des valeurs conservatrices / inégalitaires.
 
-## Définition
-
-Pour définir le concept plus mathématiquement,
-
-- Toute pensée, en particulier politique, a très probablement une faille, une incohérence, une contradiction.
-- Il est plus facile de faire progresser une pensée en trouvant et en mettant en lumière ces failles.
-- Une faille courante consiste à proposer une solusion S en faisant valoir une valeur V.
-- L'approche diagonale consiste, plutôt qu'à refuser S, à proposer une seconde solution S2, compatible avec S, et allant dans le sens de la valeur V.
-- Si l'interlocuteur rejette S2, c'est probablement qu'il/elle est de mauvaise foi concernant V.
-
 ## Exemple
 
 Pour nous qui sommes de gauche (au moins le croyons-nous), il est agaçant d'entendre parler du mérite. On sait trop bien combien cette valeur est souvent défendue pour justifier des mesures inégalitaires. Pourtant, dans une logique diagonale, on pourrait proposer une mesure progressive, au nom du mérite.
