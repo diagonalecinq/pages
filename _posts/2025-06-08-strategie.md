@@ -5,7 +5,7 @@ date: 2025-06-08
 
 # Le Racisme est stratégique
 
-J'ignore si les bourgeois ont conscientisé, planifié, fommenté ce moment racisme. Je sais quoi qu'il en soit qu'il a d'excellentes propriétés pour eux.
+J'ignore si les bourgeois ont conscientisé, planifié, fommenté ce moment racisme. Quoi qu'il en soit je constate qu'il a d'excellentes propriétés pour eux.
 
 1. Le racisme divise les classes populaires, évitant le risque d'un "moment communiste" comme le passé en a connu.
 2. Le racisme permet de réaffirmer l'importance des frontières, or, qui dit frontières dit profit.
@@ -24,6 +24,6 @@ Si l'avènement d'un Etat mondial est une menace, les frontières sont une oppor
 
 Ainsi je ne m'étonne pas de l'enthousiasme des milliardaires pour le racisme, sinon par conviction, au moins par opportunité.
 
-Business is business ?
+Astuce diagonale : proposez aux puissants de fermer les frontières aux échanges économiques aussi. On se mettrait en 'vase clos', protégeant ainsi nos gentils citoyens du monde extérieur hostile. Leur réaction en dira long sur leur insincérité.
 
 *(1) menace largement foireuse on y reviendra une autre fois.*
