@@ -12,7 +12,7 @@ Au détour d'extraits d'emissions, on voyait une vielle interview où un "journa
 1. Dans une grêve, ne peuvent participer que les personnes concernées (ex: sur la réforme du bac, que les étudiants, etc...).
 2. Dans une démocratie, si on est moins que 50% à faire grêve, on est en tort, et on la ferme sans quoi on est des fascistes.
 
-Les deux affirmations sont absurdes. Elles me rappellent un peu les lois de Azimov, ou des sophismes bien construits qui ne mènent nulle part.
+Les deux affirmations sont absurdes. Elles me rappellent un peu les lois de Azimov, ou des [sophismes](https://fr.wikipedia.org/wiki/Sophisme) bien construits qui ne mènent nulle part.
 
 Une telle sortie a-t-elle décrédibilisé le journaliste ? Le journal ? On ne dirait pas.
 
@@ -30,7 +30,7 @@ Je suis étonné du fait que, invités sur les plateaux, des personnalités de g
 
 ## Quelques mesures démocratiques
 
-1. Mettre en oeuvre le RIC, demandé par les Gilets Jaunes, qui permet de déstituer des élus jugés insatisfaisants par la population.
+1. Mettre en oeuvre le RIC, demandé par les [Gilets Jaunes](https://fr.wikipedia.org/wiki/Mouvement_des_Gilets_jaunes), qui permet de déstituer des élus jugés insatisfaisants par la population.
 2. Remplacer les Sénateurs par une assemblée de citoyens tirés au sort, payés comme des Sénateurs, avec le même rôle (après tout, quoi de plus représentatif de la population ?).
 3. Socialiser les médias. Ceux-ci constituent un pouvoir politique, et ils doivent donc être directement financés par la population. Chaque citoyens cotise (obligatoirement) 300€ par an, et choisit à quel(s) médias il veut les verser, répartissant ainsi les ressources médiatiques de manière démocratique.
 
@@ -53,7 +53,7 @@ Avant de finir, je voudrais juste vous partager quelques faits sur le mot démoc
 
 1. A mon avis, la démocratie est un pouvoir exercé par le peuple, ce qui nécessite obligatoirement (1) soit un tirage au sort des élus, (2) soit une démocratie directe, où le peuple vote directement les lois.
 2. Chez Jacques Rancière, on a une approche plus libre. Il parle du fait que quand la population remet en cause le fonctionnement de la société, en débordant le cadre institutionnel habituel, on est en démocratie. La démocratie est alors la mise en mouvement politique de celles et ceux qui, normalement, en sont exclus.
-3. Pour Barbara Stiegler, la démocratie s'inscrit dans la poursuite de la révolution Française. Elle parle d'une "hypothèse démocratique", qui postule la possibilité pour le peuple de décider de son destin. Critiquant l'isoloir, elle met en avant les discussions entre les citoyens comme une pierre angulaire de la démocratie (délibération).
+3. Pour [Barbara Stiegler](https://www.youtube.com/watch?v=spZgKC9N_1A), la démocratie s'inscrit dans la poursuite de la révolution Française. Elle parle d'une "hypothèse démocratique", qui postule la possibilité pour le peuple de décider de son destin. Critiquant l'isoloir, elle met en avant les discussions entre les citoyens comme une pierre angulaire de la démocratie (délibération).
 
 Ces définitions ne sont pas les mêmes, mais chacune vient contredire la définition bourgeoise du mot.
 
