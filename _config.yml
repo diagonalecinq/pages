@@ -3,3 +3,6 @@ theme: minima
 title: GM
 author: Diagonale
 description: Un blog de gauche modérée
+
+plugins:
+  - jekyll-feed
