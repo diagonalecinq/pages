@@ -11,4 +11,4 @@ Au-delà des simples articles du site, nous tenons à présenter des principes f
 
 Ces idées seront regroupées dans une section dédiée du site : le manifeste.
 
-Retrouvez le manifeste ici : [Manifeste](/manifeste/)
+Retrouvez le manifeste ici : [Manifeste](/pages/manifeste/)
