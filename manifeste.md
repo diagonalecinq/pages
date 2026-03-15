@@ -147,29 +147,144 @@ Notre projet politique défend le capitalisme car nous estimons que c'est un mod
 
 ### Socialisation
 
+Une technique utilisée pour décrédibiliser la gauche, c'est de lui prêter l'intention de renforcer l'Etat, et notamment en nationalisant des entreprises. Ce procès est, tristement, assez fondé : des partis qui se revendiquent de la gauche ont effectivement nationalisé. Pourtant, il n'y a rien de gauche dans cette pratique, l'Etat étant un organe de la bourgeoisie, non démocratique. Et même dans une démocratie, il y a mieux que les nationalisations (ou plutôt Etatisations) : la socialisation.
+
+Socialiser, c'est mettre une institution sous le contrôle direct de la population (cela peut être ses usagers, les citoyens, etc... selon les cas).
+
+Nous pensons que la socialisation a une grande vertu que l'Etatisation n'a pas : l'indépendance vis à vis de l'Etat. C'est bête à dire, mais l'Etat peut assez facilement changer de main, au gré d'un élection ou d'un coup d'Etat. Si on croit dans la capacité des peuples à se gouverner eux-même (c'est la base de la démocratie), alors socialisons, et créons des organes complètement indépendants les uns des autres ... et de l'Etat.
 
 ### Démocratie
 
+#### Election et représentation
 
-### Election et représentation
+Il y a plusieurs définitions de la démocratie, mais ce qui est sûr, c'est qu'aucune définition raisonnable ne doit inclure l'élection de "représentants" "compétents".
 
+Cela fait ~200 ans que nous appelons *démocratie* des régimes électifs, où des membres de la classe bourgeoise se font appeler *représentants* du peuple ; chacun étant bien conscient que ces gens ne sont pas du tout *représentatifs* de la population, ni par leur âge, ni par leur classe sociale, etc... Mais, cela fait plus de 2000 ans que démocratie veut dire autre chose. En clair, nous vivons dans une petite période, très courte, où le mot a été détourné, privé de son sens d'origine.
 
-### Laïcité
+Pour le comprendre, on peut se taper un livre comme celui de Bernard Manin (pas mal mais dur à lire), mais il y a plus simple: regarder la racine du mot.
 
+- *Demos* = peuple
+- *Kratos* = pouvoir
+- *Aristo* = meilleur
 
+Une élection vise à nommer le meilleur. C'est un principe aristocratique par définition.
+
+#### Tirage au sort
+
+Mais alors qu'est-ce qu'une démocratie ? Comment on la met en oeuvre ? 
+
+1. Option 1 : démocratie directe, tous les citoyens prennent les décisions
+2. Option 2 : démocratie par tirage au sort, on prend un grand nombre de citoyens tirés au sort, et ils prennent les décisions ; la loi des grands nombres garantissant qu'ils seront effectivement représentatifs de la population dans son ensemble
+
+Dans ce manifeste, nous défendrons la deuxième option, qui a le mérite de fonctionner parfaitement même dans des pays de très grande taille, et ce sans exiger de chaque citoyen qu'il passe un jour par semaine à participer aux décisions. C'est même le système qui passe le mieux à l'échelle, contrairement aux élections, qui fonctionnent bien avec des proches (les personnes qu'on connait, comme au sein d'une famille ou d'un village), mais qui échouent lamentablement lorsqu'il s'agit de gouverner un pays (les escrocs parvenant à se faire élire en surfant sur le fait qu'on les connait peu ou pas).
+
+#### Limites de la démocratie
+
+La démocratie a de nombreux défauts. Une des voix anti-démocratiques à gauche serait par exemple Lagasnerie. Ceci dit, nous pensons qu'un cadre propice à son exercice (socialisation des medias par exemple) permettrait de faire fonctionner ce système. Nous pensons également que sa vertu #1 (empêcher une minorité de dominer une majorité) est extrêmement précieuse, et doit être une qualité minimale non négociable de tout système politique (même si ça ne *suffit* pas pour faire un bon système).
+
+Nous pensons que le capitalisme et la démocratie seront un jour démassés, mais que pour commencer, nous pouvons déjà les mettre en place sous leur meilleure forme, ce qui nous donnera une base pour imaginer la suite.
 
 ## Propositions concrètes
 
+Cette section condense nos propositions. Elle se veut concise, et s'appuie sur les définitions qui précèdent.
+
+*Sources: la plupart des idées ne sont pas de nous. Nous ne citons pas toujours leurs autrices ou auteurs, un peu par manque de culture, et un peu parce que c'est pas le sujet.*
+
 ### Tirage au sort
+
+Nous souhaitons que le tirage au sort soit utilisé pour nommer les décideurs.
+
+- Etape 1 : les membres du sénat sont intégralement tirés au sort, et non plus élus par des intermédiaires.
+- Etape 2 : une chambre additionnelle est créée, avec des citoyens tirés au sort, avec pour seul pouvoir celui de déclencher des référendums et/ou de dissoudre l'assemblée.
+
+L'encadrement des personnes tirées au sort est à définir, notamment dans leur retour à la "vie normale" après l'exercice de leurs fonctions de décideur. L'objectif est qu'ils soient difficilement corruptibles, et qu'ils ne deviennent pas des personnes "à part".
+
 ### Abolition de l'héritage
+
+Nous proposons d'abolir l'héritage, afin de réduire les inégalités de départ.
+
+1. Tout citoyen commence avec la même somme d'argent, qui lui est versée en trois fois à 18, 22, et 24 ans.
+2. Cette somme est financée par les patrimoines des personnes décédées (dont le patrimoine est taxé à 100%).
+3. Les patrimoines inférieurs à 2,5 fois le patrimoine médian (environ 500 k€ actuellement) sont exonérés de cette taxe.
+
+La justification de la partie (3.) mérite d'être explicitée. D'un côté, nous cherchons à motiver les travailleurs à travailler, y compris pour transmettre leur patrimoine à leurs enfants, car cela nous semble motivant. De l'autre, cette motivation ne peut pas justifier des écarts de richesse trop importants. Nous prenons donc une valeur intermédiaire pour équilibrer les deux.
+
 ### Socialisation des médias
+
+Les médias ont un pouvoir politique majeur. Pour garantir une information de qualité, indépendante de l'État et des puissances financières, nous proposons de créer un statut de "société de média à but non lucratif" :
+
+1. **Non-lucrativité** : L'information n'est pas une marchandise. Aucun dividende ne peut être versé ; tout l'argent généré sert à produire de l'information.
+2. **Gouvernance démocratique** : Le pouvoir de décision n'est plus proportionnel à l'argent investi ("une action = une voix" est aboli). La gouvernance est medias est assurée par une assemblée mixte composée des travailleurs du journal et de citoyens tirés au sort.
+3. **Financement citoyen** : Les subventions de l'État sont remplacées par des "votes citoyens". Chaque citoyen décide à quel(s) média(s) d'information il alloue une part fixe de ses impôts. Le financement repose ainsi sur ce choix démocratique, complété par les abonnements et les dons.
+4. **Medias d'Etat** : L'Etat est dans l'interdiction de contrôler un ou plusieurs médias. Voir la section sur la socialisation.
+
+Ces mesures doivent protéger les citoyens contre une corruption des médias.
+
 ### Taxation à 100% au-delà d'un seuil de revenu et de patrimoine
+
+L'argent donne un pouvoir qui, s'il est trop volumineux et concentré sur une personnes, contrevient au principe démocratique.
+
+- Les revenus qui dépassent X fois le revenu médian sont taxés à 100%.
+- Le patrimoine qui dépasse Y fois le patrmoine médian est taxé à 100%.
+
+Les valeurs de X et Y sont soumis à délibération démocratique. Nous proposons la valeur 5 comme base de discussion, considérant qu'un équilibre entre motivation à travailler et risque de nuisance se situe autour de ce seuil.
+
 ### Impossibilité d'endetter l'Etat
+
+Contrairement à une partie de la gauche, nous pensons que les dettes de l'Etat bénéficient à la bourgeoisie. D'ailleurs, les partis de droite au pouvoir ont tendance à accroitre les dettes de l'Etat. Nous proposons d'interdire le financement par emprunt des dépenses de l'Etat.
+
+Nous ne savons pas comment la transition doit être gérée (annulation des dettes, réduction progressive, ...), mais nous estimons que l'Etat doit garder sa liberté d'action, ce qui n'est pas compatible avec l'endettement qui le contraint à plaire aux prêteurs potentiels.
+
+Nous ne sommes pas opposés à ce que des sommes d'argent soient levées par l'Etat, auprès de la population. Il y a un mécanisme pour ça : l'impôt.
+
 ### Abolition de la publicité
+
+La publicité est soit inutile (auquel cas autant la retirer), soit elle nous influence (auquel cas elle est nuisible). Elle nous pousse à consommer plus, ce qui est néfaste pour l'écologie, pour notre santé, et pour notre balance commerciale. Nous proposons donc d'interdire la publicité, purement et simplement.
+
 ### Voeux d'humilité obligatoire pour accéder à un poste politique
+
+Par humilité, nous voulons dire une vie sans pouvoir financier. 
+
+- Toute personne prenant un rôle politique clé doit renoncer, à vie, à posséder un patrimoine suppérieur à X.
+- Toute personne prenant un rôle politique clé doit s'engager à une transparence totale sur son patrimoine et ses activités financières, à vie.
+
+Ces critères sont pour nous incontournables si on recherche la probité. Nous ne croyons pas que les personnes compétences sont rares, donc si certains sont rebutés par cette perte de potentiel économique et de vie privée, qu'ils ou elles aillent faire autre chose, c'est pas grave.
+
 ### Lutte radicale contre la corruption (transparence, sanctions, indépendance des procureurs, séparation des pouvoirs...)
+
+Nous sommes favorables à la mise en oeuvre de toutes les mesures anti-corruption qui font consensus aujourd'hui.
+
+- Indépendance des procureurs
+- ...
+
 ### Garanties fortes sur la laïcité, protection des personnes croyantes
-### L'Etat garantit un certain nombre de services (et non de droits) essentiels
+
+- Nous croyons dans une séparation claire du pouvoir Etatique et de la religion.
+- Nous protégeons les personnes croyantes contre toute discrimination ou marginalisation, et nous veillons à garantir la liberté de conscience et de culte.
+
+C'est la base.
+
+### Garantie d'un certain nombre de services (et non de droits) essentiels
+
+Les services essentiels et vitaux doivent être garantis constitutionnellement, et soustraits du marché. Pour cela:
+
+- Indépendance de la sécurité sociale (budget, fonctionnement) de l'Etat (comme ça aurait toujours dû l'être)
+- Création d'une sécurité sociale de l'alimentation
+- Création d'une sécurité sociale de l'éducation
+
+L'idée est de socialiser les services essentiels : l'argent sert à se payer l'exceptionnel, et donc à se motiver à travailler. Il ne sert pas à survivre, où à priver de la survie.
+
+### Même bâteau
+
+Nous voulons une société où tout le monde est *dans le même bâteau*. Actuellement, c'est tout le contraire : la bourgeoisie vie dans un espace à part, et essaie d'amplifier cette séparation.
+
+- Interdiction de créer des "cliniques de riches" ou des "écoles de riches" : c'est la même sécurité sociale (voir ci-dessus) qui s'applique à tous
+- Interdiction de freiner activement la mixité sociale (comme le font certaines communes par exemple)
+- Interdiction de partir avec son fric pour s'exiler fiscalement (*)
+
+(*) Précision : évidemment qu'une personne peut partir, c'est sa liberté. On a le droit de vouloir quitter le pays, et d'ailleurs s'il devient mal géré ou dangereux, il serait honteux de fermer la porte à qui que ce soit. En revanche, si la personne revient, pour revoir un César ou pour des vacances, c'est qu'il ou elle a décidé qu'on reprenait la vie commune : les taxes qui nous reviennent seront prélevées, et elle ne pourra pas repartir sans cela (prison s'il le faut). Faut pas abuser.
+
+- **Protectionnisme de l'éducation** : Pour la même raison, les travailleurs issus d'une scolarité dans le pays, et qui décident de partir à l'étranger, devront payer une taxe (minime) pour compenser le fait que leurs concitoyens les ont formés et qu'ils ou elles ont décidé d'aller mettre leur expertise au profit d'autres (c'est très raisonnable sachant que l'école n'est pas gratuite ailleurs). Symétriquement, pour encourager les travailleurs étrangers à venir travailler en France, leurs impôts seront réduits du même montant que la taxe ci-dessus (pour leur permettre de rembourser un éventuel prêt fait dans leur pays, ou bien une taxe similaire à celle que nous pratiquons).
 
 ## Stratégie politique
 
@@ -183,7 +298,9 @@ Ces principes rendent notre mouvement vulnérable à la censure et à la tyranni
 
 ### Humilité
 
-### Intellectualisme
+Nous pensons que les gens en ont marre des grandes gueules qui savent tout, ne s'excusent de rien, ne reconnaissent pas leurs erreurs. Nous nous engageons à reconnaitre et corriger nos erreurs, et à être transparents sur notre ignorance, nos limites, et nos incertitudes. C'est le minimum d'éthique, et pourtant, c'est tellement rare qu'on sera sans doute parfois tentés de l'oublier - vous aurez ce paragraphe à nous renvoyer quand nous le ferons.
+
+### Ne pas être élus
 
 Nous ne pensons pas utile de prendre le pouvoir pour faire grandir nos idées. Nous pensons que rester des "intellectuels" suffit, et que si la population adhère à nos idées, l'offre politique suivra. Cela nous permet ainsi de n'avoir aucune ambition, et de ne pas perdre de temps avec les appareils politiques.
 
