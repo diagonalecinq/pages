@@ -10,14 +10,14 @@ permalink: /manifeste/
 
 Les observations directes mentent rarement. Tout projet politique doit commencer par là.
 
-Or, tout le monde en convient, la situation n'est pas très bonne : pollution, guerres, faim, manque de soins, etc. Certes, elle a pu être pire par le passé, mais l'occident était jusqu'ici habitué à une amélioration tendencielle, qui semble contrariée.
+Or, on est tous d'accord, la situation n'est pas géniale : pollution, guerres, faim, manque de soins, etc. C'est vrai qu'on a connu pire par le passé, mais on s'était habitués à voir les choses s'améliorer. Aujourd'hui, cette dynamique semble brisée.
 
 L'objectif de ce manifeste est de proposer un cadre politique pour améliorer cette situation.
 
 - Il ne s'agit pas de revenir au "bon vieux temps", car celui-ci n'a jamais existé.
 - Il s'agit de poursuivre le progrès.
 
-Les embuches sont nombreuses : les puissants n'ont pas intérêt au progrès, et les peuples pensent souvent que le communisme ne mène qu'à la tyrannie, si bien que le statu quo est présenté comme un idéal, et la pente fasciste comme la seule alternative, évidemment pire. Pourtant, nous portons ici un grand espoir, car le chemin vers le progrès existe, et il nous semble même assez évident et direct, si bien qu'on s'étonne parfois qu'il ne soit pas emprunté. Ce manifeste vise à le partager.
+Les obstacles sont nombreux. Ceux qui ont le pouvoir n'ont pas envie que ça change, et beaucoup craignent que le communisme ne mène qu'à la tyrannie. Résultat : on nous fait croire qu'il vaut mieux ne rien changer, ou on nous pousse vers le fascisme, ce qui est pire. Pourtant, nous avons beaucoup d'espoir. Un chemin vers le progrès existe. Il nous parait même tellement simple et direct qu'on s'étonne qu'il ne soit pas déjà pris. Ce manifeste est là pour le partager.
 
 *Note: ce document est un travail en cours, il n'est en aucun cas abouti. Nous assumons le fait de le faire vivre et de le révéler sans attendre sa complétude. Merci pour la bienveillance de vos commentaires et critiques.*
 
@@ -29,7 +29,7 @@ Nous sommes en 2026 - personne ne lit 10 pages pour avoir la substance. Donc la 
 - Pour cela, il faut ramener le capitalisme dans le cadre démocratique, c'est à dire l'égalité de chacun dans la décision collective (y compris économique).
 - Le coeur de nos propositions consiste à proposer des institutions qui mettent en oeuvre ce capitalisme démocratique.
 
-Par ailleurs, nous estimons que la démocratie est la meilleure barrière contre la tyrannie. D'autres régimes sont possible (tout n'est pas binaire), mais par définition, une démocratie ne sera jamais perçue comme néfaste par la majorité de ses citoyens, ce qui constitue une limitte (certe très basse) que nous tenons absolument à défendre, quitte à se priver de certains avantages d'autres régimes.
+Nous pensons aussi que la démocratie est le meilleur rempart contre la tyrannie. Bien sûr, d'autres systèmes existent. Mais par définition, la majorité des citoyens ne trouvera jamais qu'une vraie démocratie est néfaste pour eux. C'est un filet de sécurité de base, indispensable à nos yeux, même si cela veut dire renoncer aux avantages d'autres systèmes.
 
 En voici quelques exemples concis des mesures que nous défendons:
 
@@ -70,7 +70,7 @@ La méritocratie est un terme qui veut dire deux choses:
 
 Notre projet consiste à faire de la définition 1. une réalité, ce qui entraine par exemple la nécesité d'abolir l'héritage. En revanche, nous pensons que la définition 2. est dangereuse, et qu'il vaut mieux que le pouvoir soit réparti à égalité, selon le concept "1 humain 1 voix" défendu par l'idéal démocratique.
 
-Il est également utile de se demander, dans la définition 1., quel doit être la juste récompense du travail ou de l'action vertueuse. Nous pensons que cette récompense ne peut pas être rien (ce serait une société intégralement redistributive), car il y a un effet motivationnel (au moins dans notre culture actuelle) de la récompense, et cette motivation entraine l'action et les bénéfices de l'action. Néanmoins, des récompenses trop importantes peuvent créer des inégalités, dont les effets sont très néfastes. Il faut donc des récompenses suffisantes pour motiver, mais trop faibles pour créer des inégalités nuisibles : nous préconisons pour cela la règle "1à5" décrite plus loin.
+On peut se demander quelle est la juste récompense pour quelqu'un qui travaille dur. Nous pensons qu'il faut une vraie récompense, car dans notre culture, c'est ce qui motive à agir. Et cette motivation est utile, car elle pousse à faire des choses qui profitent à tout le monde. Cependant, si les récompenses sont gigantesques, elles créent des inégalités qui deviennent vite néfastes. L'idée est donc de trouver le bon milieu : des récompenses assez grandes pour donner envie de s'investir, mais limitées pour éviter de nuire à la société. C'est pour cela que nous proposons la règle "1 à 5", qu'on détaillera plus bas.
 
 ### Inégalités, pouvoir et décision collective
 
@@ -83,7 +83,7 @@ Il y a un lien direct entre le pouvoir économique et le pouvoir politique.
 
 Ces observations ne sont pas une opinion, mais un constat factuel. Ce qui est notre opinion, c'est de dire que cela s'oppose directement à l'idée démocratique. En effet, nous pensons que le pouvoir économique est actuellement à l'origine de la majorité des décisions dans nos sociétés occidentales, et que même si une démocratie était en place par ailleurs, elle serait une démocratie minoritaire, cantonnée à un périmètre très réduit.
 
-Du coup, notre proposition politique consiste à articuler deux forces opposées : la nécessité de récompenser les actions bénéfiques à la société, sans laisser se créer des inégalités assez forte pour qu'une personne dispose d'un pouvoir très suppérieur à une autre personne.
+Notre idée politique cherche donc un équilibre simple : on doit récompenser ce qui est utile à la société, sans pour autant laisser se creuser des inégalités tellement immenses qu'une personne se retrouve avec un pouvoir très supérieur à une autre.
 
 *Note: vous ne l'avez peut-être jamais conscientisé, mais nous vivons dans une société qui approuve l'existence d'inagalités sans limites. C'est un choix aussi arbitraire que de mettre une limite.*
 
@@ -97,7 +97,7 @@ De notre côté, nous pensons que le concept de gauche est strcturant, mais doit
 - Définition 2 : le mouvement politique qui vent poursuivre et amplifier les effets de la révolution française de 1789.
 - Définition 3 : le mouvement politique qui s'oppose aux systèmes de domination, c'est à dire à des inégalités injustes entretenues par un système.
 
-(*) on cherche ici, pour le dire mathématiquement, à maximiser la somme des bien-êtres individuels (non pondérés, chacun comptant donc à égalité). C'est une approche utilitatiste qui, philosophiquement, présente des défauts importants, mais qui globalement exclue clairement toute la droite du champ politique.
+(*) Autrement dit : on essaie de faire en sorte que le plus de gens possible aillent le mieux possible, en considérant que chacun compte à égalité. Cette vision n'est peut-être pas parfaite d'un point de vue philosophique, mais elle a le mérite de tracer une ligne claire qui exclut les idées de droite de notre approche.
 
 *Note : nous sommes ici en contradiction avec l'analyse de Frustration Magazine, que nous saluons néanmoins, et dont nous considérons sérieusement les idées.*
 
@@ -121,9 +121,9 @@ La conséquence de cela, c'est aussi que - évidemment - bon nombre de régimes 
 
 ### Bénéfique / néfaste, intérêt général et bien commun
 
-L'idée du bien commun, voire de l'intérêt général, est un concept central dans les discours politiques en général (même de droite), et donc sans doute potentiellement creux.
+L'idée du bien commun, ou de l'intérêt général, est un concept qu'on entend tout le temps en politique (même à droite). Du coup, on peut vite avoir l'impression que c'est une formule un peu vide qui ne veut plus dire grand-chose.
 
-Pour nous, la bonne définition consiste à nouveau à adopter une approche utilitariste : il s'agit de maximiser la somme des bien-êtres individuels (non pondérés, chacun comptant donc à égalité).
+Pour nous, la bonne définition revient à chercher comment faire pour que le plus de gens possible aillent le mieux possible, en considérant que la situation de chaque citoyen compte à égalité.
 
 - Bien commun : somme des bien êtres individuels, à égalité
 - Bénéfique : qui augmente le bien commun
@@ -141,17 +141,17 @@ Le capitalisme est souvent défini comme *la propriété privée des moyens de p
 - C'est différent du *marché* : on peut avoir une économie avec une monnaie, des échanges, etc... mais pas capitaliste.
 - Ce qui caractérise le capitalisme, c'est qu'une personne tire des devenus en ne faisant rien, après qu'elle a préalablement apporté des capitaux dans une société.
 
-Ce mode de fonctionnement n'est pas nécessaire. L'économie entière pourrait être financée par une avance (les consommateurs paient puis la production commence ensuite, financée par leurs avances), et/ou par de la dette (une banque ou un particulier prête des sous à l'entreprise, qui une fois qu'elle les a remboursés retrouve sa liberté financière). 
+Ce système n'est pas la seule option possible. On pourrait très bien imaginer une économie où les consommateurs paient à l'avance pour financer la production. Ou bien une économie où les entreprises se financent uniquement par la dette : une banque ou un citoyen prête l'argent, et une fois qu'elle a remboursé, l'entreprise redevient totalement libre. 
 
-Notre projet politique défend le capitalisme car nous estimons que c'est un mode de financement qui fonctionne plutôt bien, qui est central dans notre société, et donc difficile à remettre en cause. Par ailleurs, la plupart des effets négatifs dits *du capitalisme* sont en réalités les effets négatifs des inégalités et de l'absence de démocratie. Nous préconisons donc le maintient d'un capitalisme bien encadré.
+Notre projet politique défend le capitalisme car nous trouvons que c'est un mode de financement qui marche plutôt bien. Comme il est au cœur de notre société, c'est aussi compliqué de tout remettre à plat. Surtout que, selon nous, ce qu'on reproche souvent au capitalisme, c'est en fait la faute des inégalités et du manque de démocratie. Nous proposons donc de garder un système capitaliste, mais avec des règles très protectrices.
 
 ### Socialisation
 
-Une technique utilisée pour décrédibiliser la gauche, c'est de lui prêter l'intention de renforcer l'Etat, et notamment en nationalisant des entreprises. Ce procès est, tristement, assez fondé : des partis qui se revendiquent de la gauche ont effectivement nationalisé. Pourtant, il n'y a rien de gauche dans cette pratique, l'Etat étant un organe de la bourgeoisie, non démocratique. Et même dans une démocratie, il y a mieux que les nationalisations (ou plutôt Etatisations) : la socialisation.
+Pour décrédibiliser la gauche, on l'accuse souvent de vouloir tout concentrer entre les mains de l'État, notamment en nationalisant des entreprises. C'est malheureusement une critique fondée : des partis dits de gauche l'ont fait. Pourtant, ça n'a rien de gauche. L'État reste un outil de la bourgeoisie, sans réel contrôle démocratique. Et même dans une vraie démocratie, il y a bien mieux que l'étatisation : la socialisation.
 
 Socialiser, c'est mettre une institution sous le contrôle direct de la population (cela peut être ses usagers, les citoyens, etc... selon les cas).
 
-Nous pensons que la socialisation a une grande vertu que l'Etatisation n'a pas : l'indépendance vis à vis de l'Etat. C'est bête à dire, mais l'Etat peut assez facilement changer de main, au gré d'un élection ou d'un coup d'Etat. Si on croit dans la capacité des peuples à se gouverner eux-même (c'est la base de la démocratie), alors socialisons, et créons des organes complètement indépendants les uns des autres ... et de l'Etat.
+Nous sommes convaincus que la socialisation a un énorme avantage sur l'étatisation : elle garantit l'indépendance vis-à-vis de l'État. C'est peut-être bête à dire, mais l'État peut changer de mains très vite, que ce soit par une élection ou un coup de force. Si nous croyons vraiment que le peuple est capable de se gouverner (ce qui est la base de la démocratie), alors il faut socialiser. L'idée est de créer des organes qui sont totalement indépendants les uns des autres, et indépendants de l'État.
 
 ### Démocratie
 
@@ -159,7 +159,7 @@ Nous pensons que la socialisation a une grande vertu que l'Etatisation n'a pas :
 
 Il y a plusieurs définitions de la démocratie, mais ce qui est sûr, c'est qu'aucune définition raisonnable ne doit inclure l'élection de "représentants" "compétents".
 
-Cela fait ~200 ans que nous appelons *démocratie* des régimes électifs, où des membres de la classe bourgeoise se font appeler *représentants* du peuple ; chacun étant bien conscient que ces gens ne sont pas du tout *représentatifs* de la population, ni par leur âge, ni par leur classe sociale, etc... Mais, cela fait plus de 2000 ans que démocratie veut dire autre chose. En clair, nous vivons dans une petite période, très courte, où le mot a été détourné, privé de son sens d'origine.
+Ça fait environ 200 ans qu'on appelle "démocratie" un système où l'on élit des gens. Dans ce système, des membres de la bourgeoisie se font appeler "représentants" du peuple, même si on sait très bien qu'ils ne sont pas du tout représentatifs de la population (ni par leur âge, ni par leur milieu social, etc.). Pourtant, pendant plus de 2000 ans, le mot démocratie voulait dire tout autre chose. En bref, nous vivons dans une parenthèse de l'histoire où le sens de ce mot a été complètement détourné.
 
 Pour le comprendre, on peut se taper un livre comme celui de Bernard Manin (pas mal mais dur à lire), mais il y a plus simple: regarder la racine du mot.
 
@@ -173,10 +173,10 @@ Une élection vise à nommer le meilleur. C'est un principe aristocratique par d
 
 Mais alors qu'est-ce qu'une démocratie ? Comment on la met en oeuvre ? 
 
-1. Option 1 : démocratie directe, tous les citoyens prennent les décisions
-2. Option 2 : démocratie par tirage au sort, on prend un grand nombre de citoyens tirés au sort, et ils prennent les décisions ; la loi des grands nombres garantissant qu'ils seront effectivement représentatifs de la population dans son ensemble
+1. Option 1 : la démocratie directe, où tous les citoyens prennent les décisions ensemble.
+2. Option 2 : la démocratie par tirage au sort. On sélectionne un grand groupe de citoyens au hasard pour prendre les décisions. La loi des grands nombres garantit que ce groupe sera vraiment représentatif de toute la population.
 
-Dans ce manifeste, nous défendrons la deuxième option, qui a le mérite de fonctionner parfaitement même dans des pays de très grande taille, et ce sans exiger de chaque citoyen qu'il passe un jour par semaine à participer aux décisions. C'est même le système qui passe le mieux à l'échelle, contrairement aux élections, qui fonctionnent bien avec des proches (les personnes qu'on connait, comme au sein d'une famille ou d'un village), mais qui échouent lamentablement lorsqu'il s'agit de gouverner un pays (les escrocs parvenant à se faire élire en surfant sur le fait qu'on les connait peu ou pas).
+Dans ce manifeste, nous défendons la deuxième option. Son gros avantage, c'est qu'elle fonctionne parfaitement même dans les très grands pays. Et elle n'oblige pas chaque citoyen à passer un jour par semaine à débattre des lois. C'est même le système qui s'adapte le mieux à une grande échelle. À l'inverse, les élections marchent bien quand on connaît les gens (comme dans un village ou un club), mais elles échouent complètement pour diriger un pays. À cette échelle, les escrocs arrivent souvent à se faire élire justement parce qu'on les connaît peu ou pas du tout.
 
 #### Limites de la démocratie
 
@@ -197,7 +197,7 @@ Nous souhaitons que le tirage au sort soit utilisé pour nommer les décideurs.
 - Etape 1 : les membres du sénat sont intégralement tirés au sort, et non plus élus par des intermédiaires.
 - Etape 2 : une chambre additionnelle est créée, avec des citoyens tirés au sort, avec pour seul pouvoir celui de déclencher des référendums et/ou de dissoudre l'assemblée.
 
-L'encadrement des personnes tirées au sort est à définir, notamment dans leur retour à la "vie normale" après l'exercice de leurs fonctions de décideur. L'objectif est qu'ils soient difficilement corruptibles, et qu'ils ne deviennent pas des personnes "à part".
+Il faut bien sûr définir comment accompagner les personnes tirées au sort, pendant leur mandat et après (pour leur retour à la "vie normale" une fois leur mandat de décideur terminé). Le but est de s'assurer qu'elles restent impossibles à corrompre et qu'elles ne se transforment pas en une nouvelle élite coupée de la réalité.
 
 ### Abolition de l'héritage
 
@@ -207,7 +207,7 @@ Nous proposons d'abolir l'héritage, afin de réduire les inégalités de dépar
 2. Cette somme est financée par les patrimoines des personnes décédées (dont le patrimoine est taxé à 100%).
 3. Les patrimoines inférieurs à 2,5 fois le patrimoine médian (environ 500 k€ actuellement) sont exonérés de cette taxe.
 
-La justification de la partie (3.) mérite d'être explicitée. D'un côté, nous cherchons à motiver les travailleurs à travailler, y compris pour transmettre leur patrimoine à leurs enfants, car cela nous semble motivant. De l'autre, cette motivation ne peut pas justifier des écarts de richesse trop importants. Nous prenons donc une valeur intermédiaire pour équilibrer les deux.
+Il faut bien expliquer ce troisième point. D'un côté, nous voulons que les gens aient envie de travailler, et pouvoir transmettre son argent à ses enfants est une bonne source de motivation. D'un autre côté, cette motivation ne peut pas justifier qu'on laisse des écarts de richesse gigantesques se creuser. Nous avons donc choisi ce plafond de 2,5 fois le patrimoine médian pour trouver un équilibre entre ces deux idées.
 
 ### Socialisation des médias
 
@@ -222,7 +222,7 @@ Ces mesures doivent protéger les citoyens contre une corruption des médias.
 
 ### Taxation à 100% au-delà d'un seuil de revenu et de patrimoine
 
-L'argent donne un pouvoir qui, s'il est trop volumineux et concentré sur une personnes, contrevient au principe démocratique.
+L'argent donne du pouvoir. Et si ce pouvoir est trop énorme et concentré sur une seule personne, ça va directement contre le principe démocratique. C'est pourquoi nous proposons :
 
 - Les revenus qui dépassent X fois le revenu médian sont taxés à 100%.
 - Le patrimoine qui dépasse Y fois le patrmoine médian est taxé à 100%.
@@ -233,7 +233,7 @@ Les valeurs de X et Y sont soumis à délibération démocratique. Nous proposon
 
 Contrairement à une partie de la gauche, nous pensons que les dettes de l'Etat bénéficient à la bourgeoisie. D'ailleurs, les partis de droite au pouvoir ont tendance à accroitre les dettes de l'Etat. Nous proposons d'interdire le financement par emprunt des dépenses de l'Etat.
 
-Nous ne savons pas comment la transition doit être gérée (annulation des dettes, réduction progressive, ...), mais nous estimons que l'Etat doit garder sa liberté d'action, ce qui n'est pas compatible avec l'endettement qui le contraint à plaire aux prêteurs potentiels.
+Nous ne savons pas exactement comment il faudrait gérer cette transition (annuler les dettes, les réduire petit à petit...), mais nous sommes convaincus que l'État doit garder sa liberté d'action. Ce n'est pas possible s'il doit sans cesse plaire aux marchés financiers pour continuer à emprunter.
 
 Nous ne sommes pas opposés à ce que des sommes d'argent soient levées par l'Etat, auprès de la population. Il y a un mécanisme pour ça : l'impôt.
 
@@ -294,11 +294,11 @@ Nos actions sont non-violentes, c'est à dire que nous ne faisons aucun mal aux 
 
 C'est pour cette raison que nous tenons à la légalité de nos propos, actions, et engagements de tout genre. Les personnes qui se revendiquent de ce mouvement et contreviennent à ce principe sont par définition des menteurs, puisqu'en se comportant ainsi ils s'excluent du mouvement - auquel ils n'ont jamais sincèrement cru s'ils en viennent à contredire ce principe essentiel.
 
-Ces principes rendent notre mouvement vulnérable à la censure et à la tyrannie. C'est accepté. Nous disparaitront si la loi nous y force - c'est comme ça. D'autres feront autrement, c'est leur projet, pas le notre. Nous n'avons pas besoin d'avoir tous la même approche.
+Ces principes rendent notre mouvement vulnérable face à la censure ou à la tyrannie. C'est un choix assumé. Si la loi nous y force, nous disparaîtrons, c'est la règle du jeu. D'autres feront différemment, avec d'autres méthodes, mais ce sera leur projet, pas le nôtre. On n'a pas tous besoin d'avoir la même approche.
 
 ### Humilité
 
-Nous pensons que les gens en ont marre des grandes gueules qui savent tout, ne s'excusent de rien, ne reconnaissent pas leurs erreurs. Nous nous engageons à reconnaitre et corriger nos erreurs, et à être transparents sur notre ignorance, nos limites, et nos incertitudes. C'est le minimum d'éthique, et pourtant, c'est tellement rare qu'on sera sans doute parfois tentés de l'oublier - vous aurez ce paragraphe à nous renvoyer quand nous le ferons.
+On pense que les gens n'en peuvent plus des grandes gueules qui ont réponse à tout, ne s'excusent jamais et ne reconnaissent jamais avoir tort. De notre côté, nous nous engageons à admettre et corriger nos erreurs, et à dire franchement quand on ne sait pas ou qu'on n'est pas sûrs. C'est la base de l'éthique. Pourtant, comme c'est très rare en politique, on sera sûrement tentés de l'oublier parfois : ce sera à vous de nous ressortir ce paragraphe quand ça arrivera. Et on aura l'air bêtes, ça devrait nous calmer.
 
 ### Ne pas être élus
 
