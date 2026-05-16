@@ -1,6 +1,6 @@
 ---
 title: "La constitution de Guillaume et Eugénie"
-date: 2026-
+date: 2026-05-16
 description: "La nouvelle émission de Guillaume et Eugénie où ils écrivent une constitution"
 category: [Politique, Démocratie, Constitution]
 ---
