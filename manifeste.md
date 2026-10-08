@@ -2,6 +2,7 @@
 layout: page
 title: Manifeste
 permalink: /manifeste/
+description: "Le manifeste de Diagonale : rendre le capitalisme compatible avec la démocratie — principes et propositions institutionnelles."
 ---
 
 # Manifeste: Capitalisme et Démocratie

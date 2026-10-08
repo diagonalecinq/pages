@@ -1,6 +1,7 @@
 ---
 title: "Au nom de la démocratie"
 date: 2025-12-30
+description: "Contrarguments concrets contre les sophismes médiatiques sur la grève et la règle majoritaire, invoqués « au nom de la démocratie »."
 ---
 
 # Au nom de la démocratie

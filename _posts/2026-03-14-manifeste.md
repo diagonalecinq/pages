@@ -3,6 +3,7 @@ title: "Manifeste"
 date: 2026-03-14
 description: "Présentation de la nouvelle section Manifeste"
 category: [Politique, Démocratie, Capitalisme]
+redirect_from: /politique/démocratie/capitalisme/2026/03/14/manifeste.html
 ---
 
 # Une section Manifeste pour le site

@@ -1,8 +1,9 @@
 ---
 title: "La constitution de Guillaume et Eugénie"
 date: 2026-05-16
-description: "La nouvelle émission de Guillaume et Eugénie où ils écrivent une constitution"
+description: "Sur Twitch, Guillaume et Eugénie écrivent une constitution pour la France en direct — retour sur une expérience démocratique originale."
 category: [Politique, Démocratie, Constitution]
+redirect_from: /politique/démocratie/constitution/2026/05/16/guillaume.html
 ---
 
 # Une constitution sur Twitch

@@ -1,6 +1,7 @@
 ---
 title: "Diagonale"
 date: 2025-04-24
+description: "Qu'est-ce qu'une diagonale ? Une tactique de débat : proposer des mesures progressistes au nom des valeurs conservatrices, pour forcer l'adversaire à montrer son jeu."
 ---
 
 # Qu'est-ce qu'une Diagonale ?

@@ -1,8 +1,9 @@
 ---
 title: "Organiser"
 date: 2026-01-04
-description: "Comment s'organiser ?"
+description: "Comment s'organiser quand syndicats et partis ne suffisent plus ? Retour au concret : se parler à la base, caisses de grève, relais d'information."
 category: [Politique, Démocratie, Diagonale]
+redirect_from: /politique/démocratie/diagonale/2026/01/04/organiser.html
 ---
 
 # Comment s'organiser ?

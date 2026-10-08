@@ -1,11 +1,25 @@
 theme: minima
 
-title: GM
+title: Diagonale
 author: Diagonale
 description: Un blog de gauche modérée
+lang: fr-FR
+url: https://diagonalecinq.github.io
+baseurl: /pages
+permalink: /:year/:month/:day/:title:output_ext
+
 header_pages:
   - blog.md
   - manifeste.md
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/banner.png

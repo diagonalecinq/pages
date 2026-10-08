@@ -1,6 +1,7 @@
 ---
 title: "Stratégie"
 date: 2025-06-08
+description: "Le racisme est stratégique pour les puissants : il divise les classes populaires et justifie les frontières qui rendent possible le dumping social et fiscal."
 ---
 
 # Le Racisme est stratégique
